@@ -31,6 +31,6 @@ An exploration of MLOps for Industrial Factory Quality Assurance (QA) in the con
   
   5.2. The Automated Gigafactory Data Science system
 
-### 6 - Real-world examples
+### 6 - Real-World Examples
 
   Your specific practical applications and other real-world requests
